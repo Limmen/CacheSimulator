@@ -3,9 +3,13 @@
 What is it?
 ---------------
 
-A school project on a course in Object-Oriented Programming (Java).
+A school project on a course in Object-Oriented Programming and Design (Java).
 We where given a sample GUI and a program specifikation.
 This assignment was not a group-projet, it was done singlehanded on a time-span of 2 weeks.
+
+Program architecture
+--------------------
+Obviously, since this was a course in Object-Oriented programming and design we had a focus on the program architecture and design. This program is created in the MVC pattern (Model-View-Controller) with a intent that every class and function has a good cohesion, low coupling and a well-defined public interface
 
 Functionality
 --------------
